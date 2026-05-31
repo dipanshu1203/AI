@@ -62,6 +62,36 @@ const button = document.querySelector("#predictButton");
 const output = document.querySelector("#prediction");
 const breakdown = document.querySelector("#scoreBreakdown");
 const driverPreview = document.querySelector("#driverPreview");
+const trackHistoryNote = document.querySelector("#trackHistoryNote");
+const teamFormNote = document.querySelector("#teamFormNote");
+
+async function loadPredictionData() {
+  try {
+    const response = await fetch("data/prediction.json", { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error("Prediction data unavailable");
+    }
+
+    const data = await response.json();
+    for (const [driver, model] of Object.entries(data.drivers || {})) {
+      if (driverModel[driver]) {
+        driverModel[driver] = { ...driverModel[driver], ...model };
+      }
+    }
+
+    if (data.trackHistoryLabel) {
+      trackHistoryNote.textContent = data.trackHistoryLabel;
+    }
+
+    if (data.teamFormLabel) {
+      teamFormNote.textContent = data.teamFormLabel;
+    }
+  } catch (error) {
+    console.info("Using built-in prediction seed data.");
+  }
+
+  renderPrediction();
+}
 
 function renderPrediction() {
   const pick = driverModel[select.value];
@@ -85,3 +115,4 @@ function renderPrediction() {
 
 button.addEventListener("click", renderPrediction);
 select.addEventListener("change", renderPrediction);
+loadPredictionData();

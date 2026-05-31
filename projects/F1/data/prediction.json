@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-05-31T07:51:53.389Z",
+  "source": "Jolpica-F1 API",
+  "nextRace": "Monaco Grand Prix",
+  "trackHistoryLabel": "2025 Monaco Grand Prix: Lando Norris · McLaren",
+  "teamFormLabel": "Current team form: Mercedes P1",
+  "drivers": {
+    "Kimi Antonelli": {
+      "teamForm": 70,
+      "trackHistory": 0,
+      "note": "Mercedes has the strongest current team form, so Kimi Antonelli stays high in the model."
+    },
+    "George Russell": {
+      "teamForm": 70,
+      "trackHistory": 0,
+      "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
+    },
+    "Charles Leclerc": {
+      "teamForm": 47,
+      "trackHistory": 0,
+      "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
+    },
+    "Lewis Hamilton": {
+      "teamForm": 47,
+      "trackHistory": 0,
+      "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
+    },
+    "Lando Norris": {
+      "teamForm": 34,
+      "trackHistory": 30,
+      "note": "Lando Norris gets the biggest track-history boost as last year's race winner."
+    },
+    "Oscar Piastri": {
+      "teamForm": 34,
+      "trackHistory": 18,
+      "note": "Oscar Piastri benefits from McLaren's win at this track last year."
+    },
+    "Max Verstappen": {
+      "teamForm": 18,
+      "trackHistory": 0,
+      "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
+    }
+  }
+}
