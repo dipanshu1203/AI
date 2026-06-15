@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-08T12:45:01.011Z",
+  "updatedAt": "2026-06-15T14:41:50.960Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "Barcelona Grand Prix",
-  "trackHistoryLabel": "2025 Barcelona Grand Prix: Oscar Piastri · McLaren",
+  "nextRace": "Austrian Grand Prix",
+  "trackHistoryLabel": "2025 Austrian Grand Prix: Lando Norris · McLaren",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
@@ -16,27 +16,27 @@
       "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
     },
     "Charles Leclerc": {
-      "teamForm": 47,
+      "teamForm": 51,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 47,
+      "teamForm": 51,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
     "Lando Norris": {
-      "teamForm": 34,
-      "trackHistory": 18,
-      "note": "Lando Norris benefits from McLaren's win at this track last year."
+      "teamForm": 38,
+      "trackHistory": 30,
+      "note": "Lando Norris gets the biggest track-history boost as last year's race winner."
     },
     "Oscar Piastri": {
-      "teamForm": 34,
-      "trackHistory": 30,
-      "note": "Oscar Piastri gets the biggest track-history boost as last year's race winner."
+      "teamForm": 38,
+      "trackHistory": 18,
+      "note": "Oscar Piastri benefits from McLaren's win at this track last year."
     },
     "Max Verstappen": {
-      "teamForm": 21,
+      "teamForm": 24,
       "trackHistory": 0,
       "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
     }
