@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-29T12:45:19.272Z",
+  "updatedAt": "2026-07-06T12:22:48.222Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "British Grand Prix",
-  "trackHistoryLabel": "2025 British Grand Prix: Lando Norris · McLaren",
+  "nextRace": "Belgian Grand Prix",
+  "trackHistoryLabel": "2025 Belgian Grand Prix: Oscar Piastri · McLaren",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
@@ -16,24 +16,24 @@
       "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
     },
     "Charles Leclerc": {
-      "teamForm": 47,
+      "teamForm": 54,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 47,
+      "teamForm": 54,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
     "Lando Norris": {
-      "teamForm": 37,
-      "trackHistory": 30,
-      "note": "Lando Norris gets the biggest track-history boost as last year's race winner."
+      "teamForm": 38,
+      "trackHistory": 18,
+      "note": "Lando Norris benefits from McLaren's win at this track last year."
     },
     "Oscar Piastri": {
-      "teamForm": 37,
-      "trackHistory": 18,
-      "note": "Oscar Piastri benefits from McLaren's win at this track last year."
+      "teamForm": 38,
+      "trackHistory": 30,
+      "note": "Oscar Piastri gets the biggest track-history boost as last year's race winner."
     },
     "Max Verstappen": {
       "teamForm": 27,
