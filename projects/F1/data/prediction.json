@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-17T09:07:01.698Z",
+  "updatedAt": "2026-08-24T09:11:47.506Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "Dutch Grand Prix",
-  "trackHistoryLabel": "2025 Dutch Grand Prix: Oscar Piastri · McLaren",
+  "nextRace": "Italian Grand Prix",
+  "trackHistoryLabel": "2025 Italian Grand Prix: Max Verstappen · Red Bull Racing",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
@@ -16,29 +16,29 @@
       "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
     },
     "Charles Leclerc": {
-      "teamForm": 57,
+      "teamForm": 56,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 57,
+      "teamForm": 56,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
     "Lando Norris": {
-      "teamForm": 41,
-      "trackHistory": 18,
-      "note": "Lando Norris benefits from McLaren's win at this track last year."
+      "teamForm": 43,
+      "trackHistory": 0,
+      "note": "Lando Norris needs McLaren to outperform its current team-form score."
     },
     "Oscar Piastri": {
-      "teamForm": 41,
-      "trackHistory": 30,
-      "note": "Oscar Piastri gets the biggest track-history boost as last year's race winner."
+      "teamForm": 43,
+      "trackHistory": 0,
+      "note": "Oscar Piastri needs McLaren to outperform its current team-form score."
     },
     "Max Verstappen": {
-      "teamForm": 33,
-      "trackHistory": 0,
-      "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
+      "teamForm": 31,
+      "trackHistory": 30,
+      "note": "Max Verstappen gets the biggest track-history boost as last year's race winner."
     }
   }
 }
