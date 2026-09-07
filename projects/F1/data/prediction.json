@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-31T16:15:56.068Z",
+  "updatedAt": "2026-09-07T14:21:05.940Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "Italian Grand Prix",
-  "trackHistoryLabel": "2025 Italian Grand Prix: Max Verstappen · Red Bull Racing",
+  "nextRace": "Spanish Grand Prix",
+  "trackHistoryLabel": "2025 Spanish Grand Prix: no prior result found",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
@@ -16,12 +16,12 @@
       "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
     },
     "Charles Leclerc": {
-      "teamForm": 56,
+      "teamForm": 52,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 56,
+      "teamForm": 52,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
@@ -37,8 +37,8 @@
     },
     "Max Verstappen": {
       "teamForm": 31,
-      "trackHistory": 30,
-      "note": "Max Verstappen gets the biggest track-history boost as last year's race winner."
+      "trackHistory": 0,
+      "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
     }
   }
 }
