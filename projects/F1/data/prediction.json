@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T15:14:09.907Z",
+  "updatedAt": "2026-09-28T16:51:56.039Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "Azerbaijan Grand Prix",
-  "trackHistoryLabel": "2025 Azerbaijan Grand Prix: Max Verstappen · Red Bull Racing",
+  "nextRace": "Bahrain Grand Prix in Malaysia",
+  "trackHistoryLabel": "2025 Bahrain Grand Prix in Malaysia: no prior result found",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
@@ -16,29 +16,29 @@
       "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
     },
     "Charles Leclerc": {
-      "teamForm": 50,
+      "teamForm": 49,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 50,
+      "teamForm": 49,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
     "Lando Norris": {
-      "teamForm": 43,
+      "teamForm": 40,
       "trackHistory": 0,
       "note": "Lando Norris needs McLaren to outperform its current team-form score."
     },
     "Oscar Piastri": {
-      "teamForm": 43,
+      "teamForm": 40,
       "trackHistory": 0,
       "note": "Oscar Piastri needs McLaren to outperform its current team-form score."
     },
     "Max Verstappen": {
-      "teamForm": 32,
-      "trackHistory": 30,
-      "note": "Max Verstappen gets the biggest track-history boost as last year's race winner."
+      "teamForm": 34,
+      "trackHistory": 0,
+      "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
     }
   }
 }
