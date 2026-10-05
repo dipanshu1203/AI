@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-28T16:51:56.039Z",
+  "updatedAt": "2026-10-05T17:16:29.397Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "Bahrain Grand Prix in Malaysia",
-  "trackHistoryLabel": "2025 Bahrain Grand Prix in Malaysia: no prior result found",
+  "nextRace": "Singapore Grand Prix",
+  "trackHistoryLabel": "2025 Singapore Grand Prix: George Russell · Mercedes",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
       "teamForm": 70,
-      "trackHistory": 0,
-      "note": "Mercedes has the strongest current team form, so Kimi Antonelli stays high in the model."
+      "trackHistory": 18,
+      "note": "Kimi Antonelli benefits from Mercedes's win at this track last year."
     },
     "George Russell": {
       "teamForm": 70,
-      "trackHistory": 0,
-      "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
+      "trackHistory": 30,
+      "note": "George Russell gets the biggest track-history boost as last year's race winner."
     },
     "Charles Leclerc": {
-      "teamForm": 49,
+      "teamForm": 51,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 49,
+      "teamForm": 51,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
@@ -36,7 +36,7 @@
       "note": "Oscar Piastri needs McLaren to outperform its current team-form score."
     },
     "Max Verstappen": {
-      "teamForm": 34,
+      "teamForm": 38,
       "trackHistory": 0,
       "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
     }
