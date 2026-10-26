@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-19T15:46:24.911Z",
+  "updatedAt": "2026-10-26T15:20:46.009Z",
   "source": "Jolpica-F1 API",
-  "nextRace": "United States Grand Prix",
-  "trackHistoryLabel": "2025 United States Grand Prix: Max Verstappen · Red Bull Racing",
+  "nextRace": "Mexico City Grand Prix",
+  "trackHistoryLabel": "2025 Mexico City Grand Prix: Lando Norris · McLaren",
   "teamFormLabel": "Current team form: Mercedes P1",
   "drivers": {
     "Kimi Antonelli": {
@@ -16,29 +16,29 @@
       "note": "Mercedes has the strongest current team form, so George Russell stays high in the model."
     },
     "Charles Leclerc": {
-      "teamForm": 54,
+      "teamForm": 55,
       "trackHistory": 0,
       "note": "Charles Leclerc needs Ferrari to outperform its current team-form score."
     },
     "Lewis Hamilton": {
-      "teamForm": 54,
+      "teamForm": 55,
       "trackHistory": 0,
       "note": "Lewis Hamilton needs Ferrari to outperform its current team-form score."
     },
     "Lando Norris": {
       "teamForm": 41,
-      "trackHistory": 0,
-      "note": "Lando Norris needs McLaren to outperform its current team-form score."
+      "trackHistory": 30,
+      "note": "Lando Norris gets the biggest track-history boost as last year's race winner."
     },
     "Oscar Piastri": {
       "teamForm": 41,
-      "trackHistory": 0,
-      "note": "Oscar Piastri needs McLaren to outperform its current team-form score."
+      "trackHistory": 18,
+      "note": "Oscar Piastri benefits from McLaren's win at this track last year."
     },
     "Max Verstappen": {
-      "teamForm": 40,
-      "trackHistory": 30,
-      "note": "Max Verstappen gets the biggest track-history boost as last year's race winner."
+      "teamForm": 41,
+      "trackHistory": 0,
+      "note": "Max Verstappen needs Red Bull Racing to outperform its current team-form score."
     }
   }
 }
